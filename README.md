@@ -2,7 +2,7 @@
 
 **Packages needed**: *dplyr*
 
-** Files read:** You need the *UCI HAR Dataset* folder in your working directory.
+**Files read:** You need the *UCI HAR Dataset* folder in your working directory.
 - ./UCI HAR Dataset/test/subject_test.txt
 - ./UCI HAR Dataset/test/y_test.txt
 - ./UCI HAR Dataset/test/X_test.txt
