@@ -1,6 +1,6 @@
 # Course Project
 
-Step 1: 
+<u>Step 1: </u>
 
 First of all, I created the tables "test" and "train".
 Each one has 563 columns: "subject", "activity" and the values for the 561 measurements.
