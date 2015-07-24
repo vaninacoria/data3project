@@ -28,7 +28,8 @@ Instead of 1:6, the rows now say "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTA
 I already had all variable names that were descriptive. This was accomplished in steps 1 (where I named the variables "subject" and "activity) and step 2 (where I named the other variables and chose the ones that included "mean" or "std" in their name.
 
 **Step 5:**
-I used the *summarise_each* function in the dplyr package which allows you to summarise many columns at once. I grouped my data by subject and by activity using *group_by*. 
+I grouped my data by subject and by activity using *group_by* and I used the *summarise_each* function in the dplyr package which allows you to summarise many columns at once. This was stored in *dataTidy*, which has 180 rows (for the 30 subjects, each did 6 activities) and 68 columns (subject, activity, and 66 columns with the mean of a specific measurement.
+*dataTidyNarrow* is the narrow version of *dataTidy*, using the *melt* function. It has 11880 rows (180x66) and 4 columns.
 
 
 ##Codebook
