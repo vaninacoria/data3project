@@ -22,7 +22,7 @@ I used the grep function to choose the column names that had "mean" or "std" in 
 
 **Step 3:**
 I changed the activity names in the "activity" column of *dataExt2*. 
-Instead of 1:6, the rows now say "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING" OR "LAYING"
+Instead of 1:6, the rows now say "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING" OR "LAYING".
 
 **Step 4:**
 I already had all variable names that were descriptive. This was accomplished in steps 1 (where I named the variables "subject" and "activity) and step 2 (where I named the other variables and chose the ones that included "mean" or "std" in their name.
