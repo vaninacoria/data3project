@@ -1,4 +1,4 @@
-# How **run_analysis** works
+# How *run_analysis* works
 
 **Packages needed**: *dplyr*
 
