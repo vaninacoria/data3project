@@ -21,7 +21,7 @@ I already had all variable names that were descriptive. This was accomplished in
 Step 5:
 I used the "summarise_each" function in the dplyr package which allows you to summarise many columns at once. I grouped my data by subject and by activity using "group_by". 
 
-<Codebook>
+##Codebook
 
 
 
